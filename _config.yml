@@ -4,3 +4,4 @@ collections:
 plugins:
   - jekyll-feed
 theme: mimoza
+baseurl: /collectif-d-opposants-a-la-deviation-du-faouet
