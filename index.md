@@ -1,8 +1,16 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
+# Collectif d'opposants à la déviation du Faouët
 
-# L'Échappée Belle
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Sauvegardons la nature !
+
+Préservons notre paysage !
+
+Protégeons nos commerces et notre agriculture !
+
+
+Vous pouvez dès à présent rejoindre le collectif et prendre connaissance de sa charte : https://framaforms.org/adhesion-au-collectif-des-opposants-a-la-deviation-du-faouet-1698532499 
